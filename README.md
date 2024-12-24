@@ -4,8 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandreshpatle28&label=Profile%20views&color=0e75b6&style=flat" alt="chandreshpatle28" /> </p>
 
-- 🌱 **Currently exploring**: API Testing using Postman and enhancing skills in Selenium and Cucumber.
-
+- 🌱 **Currently Working On**:  
+- Manual and Automation Testing using **Selenium** and **Cucumber**.  
+- API Testing with **Postman** to ensure seamless backend integration.  
+- Continuously enhancing skills in **Selenium**, **Cucumber**, and other QA tools.
+  
 - 💼 **Hands-on experience**: Automation Testing, Manual Testing, and CI/CD pipelines using Jenkins and Docker.
 
 - 💡 **Proficient in**: Selenium WebDriver, TestNG, and building scalable automation frameworks.
